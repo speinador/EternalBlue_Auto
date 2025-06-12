@@ -55,3 +55,19 @@ Este script se proporciona con fines **educativos y de auditoría ética**. El u
 
 - [Microsoft MS17-010 Bulletin](https://docs.microsoft.com/en-us/security-updates/securitybulletins/2017/ms17-010)
 - [Exploit EternalBlue - Rapid7](https://www.rapid7.com/db/modules/exploit/windows/smb/ms17_010_eternalblue/)
+
+---
+
+## 🧑‍🏫 Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+
+---
+
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+
+---
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!
