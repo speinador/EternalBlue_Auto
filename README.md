@@ -1,6 +1,9 @@
 
 # Automatizador de Ataque EternalBlue (MS17-010)
 
+![Visual](https://github.com/speinador/EternalBlue_Auto/blob/main/Visual.png)
+
+
 Este script en Python automatiza el escaneo y explotación de sistemas vulnerables a la vulnerabilidad **MS17-010**, también conocida como **EternalBlue**, utilizando herramientas como `nmap` y `Metasploit Framework`.
 
 ## 🚨 ¿Qué es MS17-010 (EternalBlue)?
